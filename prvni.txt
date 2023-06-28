@@ -3,3 +3,4 @@
 3
 toto je prihlasovaci funkce :)
 mírná úprava funkce
+
