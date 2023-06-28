@@ -1,1 +1,2 @@
 druhý textový dokument
+toto je druhy soubor v gitu
